@@ -13,27 +13,12 @@ Be clear and concise in your writing. Bullets points are encouraged.
 
 ## Markdown Instructions
 
-**TODO: delete this section before submission.**
-
-This is a Markdown file. All written documents that you will submit this semester will be Markdown files. Markdown is a commonly used format by developers and bloggers. It's something that you should know. Learning it is a learning objective of this course.
-
-**Please use the official [Markdown Reference Documentation](https://commonmark.org/help/) if you aren't sure how to "code" Markdown.**
-
-This is an example for inserting images into Markdown:
-
-![this is an accessible text description of the image](example-sketch.png)
-
-**TODO: delete this section before submission.**
-
-
 ## Personal Site (Milestone 1)
 
 ### Website Topic (Milestone 1)
 > Briefly explain what your website will be about. Share your vision of your personal website.
->
-> Example: (TODO: delete this) My website will be about the Grassroots festival in Trumansburg NY.
 
-TODO: tell us about your website
+My website will introduce a variety of accessible, reasonably-priced popular restaurants and dessert places in Seoul, South Korea that are more well-known among local citizens rather than tourists.
 
 
 ## Personal Website Design Exploration (Milestone 1)
@@ -44,23 +29,17 @@ Include a screenshot of the home page for each site. If you're planning a mobile
 
 **We'll refer to these are your "example websites."**
 
-> TODO: Remove this example in your submission.
-> Example: **(You may not use the instructors' websites for this part.)**
->
-> 0. <https://kharms.infosci.cornell.edu/>
->     ![Kyle Harms' personal website](example-site.png)
+1. <https://pinchofyum.com/>
 
-1. <TODO: website url>
+    ![PinchOfYum website](pinchofyum.png)
 
-    ![TODO: screenshot description](TODO: screenshot path)
+2. <https://andershusa.com/>
 
-2. <TODO: website url>
+    ![Anders & Kaitlin blog](andershusa.png)
 
-    ![TODO: screenshot description](TODO: screenshot path)
+3. <http://www.muchadoaboutfooding.com/>
 
-3. <TODO: website url>
-
-    ![TODO: screenshot description](TODO: screenshot path)
+    ![MuchAdoAboutFooding](muchadoaboutfooding.png)
 
 
 ### Personal Website 1 Review (Milestone 1)
@@ -72,8 +51,10 @@ Include a screenshot of the home page for each site. If you're planning a mobile
 > - Do you believe the content likely **addresses** the goals of the site's audience?
 > - What do you like about the design?
 > - Is the site designed for desktop, mobile, or desktop and mobile devices?
+>
+The site seems to be designed for beginner cooks or people who want simple food recipes that they can easily make at home. The audience is likely to be looking for easy, sustainable recipes based on the type of cuisine they're looking for and food preferences (vegan, allergens, etc).
 
-TODO: website reflection/critique
+The website contains a collection of creative meal recipes that can be cooked at home. The recipes can be viewed based on meal categories, time of meal, courses (appetizers, desserts, etc), ingredients, and many other selections. It displays images of the cooked meals as well. The content is likely to effectively address the audience's goals as there are multiple recipes categorized in various ways that should help the audience to navigate the recipe that fits best in their situation. I think this website is well designed in that users can easily see all of the recipes in one page, or choose to view them by category in another--and the multiple ways the recipes are categorized are all listed in one page so that it is easy for the user to determine what works best for their choosing. The site is designed for both desktop and mobile devices.
 
 
 ### Personal Website 2 Review (Milestone 1)
@@ -85,8 +66,10 @@ TODO: website reflection/critique
 > - Do you believe the content likely **addresses** the goals of the site's audience?
 > - What do you like about the design?
 > - Is the site designed for desktop, mobile, or desktop and mobile devices?
+>
+This website is designed to introduce restaurants to try in various countries/cities around the world. Its intended audience is likely to be tourists traveling to foreign countries or a city that is unfamiliar to them. It is likely that the audience for this website intends to find a list of popular restaurants in the country/city they are traveling to, as well as a guide or a map that specifies their location and the pricing of the food.
 
-TODO: website reflection/critique
+The website contains food reviews of famous restaurants, city guides that specify a list of restaurants as well as detailed information about them and their locations, articles regarding the latest updates on food in global cities, and images that show the restaurants or the menus they provide. The content is likely to address the goals of the audience because it shows detailed information of what sorts of food are available and popular in diverse cities, as well as providing reviews and location information. I like how the site is emphasizing images so that it's easy to see as first sight what the food looks like. The site is designed for both desktop and mobile devices.
 
 
 ### Personal Website 3 Review (Milestone 1)
@@ -98,8 +81,10 @@ TODO: website reflection/critique
 > - Do you believe the content likely **addresses** the goals of the site's audience?
 > - What do you like about the design?
 > - Is the site designed for desktop, mobile, or desktop and mobile devices?
+>
+The site is designed to introduce original recipes and restaurants recommendations with different cuisines in various locations. Its intended audience is likely be beginner cooks, people searching for homemade recipes, or people searching for new restaurants to try. The audience most likely has goals to find convenient locations for new restaurants to try visiting, as well as detailed recipes that they can follow step-by-step.
 
-TODO: website reflection/critique
+The content includes images of finished recipes, hit menus of the introduced restaurants, the location information of the restaurants, articles containing interviews with cooks, and recipes for food, all categorized into the type of meal. The content is likely to address the goals of the site's audience because it provides a wide range of information that people searching for recipes or restaurants will want to know, but perhaps the surplus of information may make the process a bit confusing. I like how the content is organized with large images representative of the content, as well as a brief preview text. The site is designed for both desktop and mobile devices.
 
 
 ## Audience & Goals (Milestone 1)
@@ -108,19 +93,18 @@ Using what you learned from studying the example websites, identify your website
 
 ### Audience (Milestone 1)
 > Briefly explain who the intended audience is for your website. Be specific and justify why this audience is appropriate for your site's topic.
-
-TODO: site's audience
-
+>
+My intended audience is tourists visiting Seoul, South Korea, ranging from students to parents traveling with their children. I believe I could specifically target tourists that aren't traveling with a tour guide, and are attempting to make their own travel plans. This audience is appropriate because my site will be providing mostly local restaurants in Seoul (of which I am familiar with), categorized by district, which will be reasonably priced for people similar to me and my family (student, 3-person household).
 
 ### Audience Goals (Milestone 1)
 > Why would your audience visit your site?
 > Identify at least 3 goals that your users have for visiting your website.
+>
+1. To find restaurants that are verified by locals in Seoul without connections with a tour guide.
 
-1. TODO: goal
+2. To find restaurants at convienient locations depending on their travel plans.
 
-2. TODO: goal
-
-3. TODO: goal
+3. To find restaurants of which prices fit within their expected spendings.
 
 
 ## Content Planning (Milestone 1)
@@ -130,25 +114,28 @@ Plan your site's content.
 ### Your Site's Planned Content (Milestone 1)
 > List **all** the content you plan to include your personal website.
 > You should list all types of content you planned to include (i.e. text, photos, images, etc.)
-
-- TODO: content 1
-- TODO: content 2
-- TODO: content 3
-- ...
+>
+- Categorization of restaurants by districts in Seoul (text)
+- Categorization of restaurants by cuisine (text)
+- Descriptions of restaurants (name, location, pricing, cuisine, menus etc) (text)
+- Map of Seoul that color codes districts (image)
+- Photographs of signature menus of the restaurants (image, photo)
+- "About Me" page (text)
+- Website logo (image)
 
 
 ### Content Justification (Milestone 1)
 > Explain (about a paragraph) why this content is the right content for your site's audience and how the content addresses their goals.
-
-TODO: justify your content decisions
+>
+First of all, tourists need to know approximately where each restaurant is located, so a categorization of the restaurants by district, along with a widescale map depicting Seoul and approximate restaurant location will be convienient for the audience. Also, tourists will not be familiar with the transportation or the routes to reach a certain location, precise location information with supplemental guides describing how to arrive the area from a more-famous landmark or subway station will make their travels easier. More specific descriptions of restaurants with the type of cuisine and photos to visualize the signature meals will help the audience to determine if the restaurant is appealing to them, and the pricing information will let them decide if it fits in their monetary plans.
 
 
 ### Home Page Content (Milestone 1)
 > What is the content that your users would expect when visiting your site for the first time.
 >
 > Briefly identify what content you will include on the homepage and why this content should be the first thing your target audience sees when they visit your site.
-
-TODO: homepage content
+>
+Users would expect to see a page with options of how to navigate the restaurants they want to visit. I will first include a navigation bar that allows users to easily flip through pages. I will include two options to navigate through categories that consist of a list of 1. districts in Seoul and 2. cuisine types, and a image that shows the entirety of Seoul divided into districts. This will give the audience a clear guide of which strategy to choose when searching for the restaurants they want to visit, as well as an overview of the city they will be visiting.
 
 
 ## Information Architecture (Milestone 2)
