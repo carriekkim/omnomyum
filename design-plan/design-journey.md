@@ -18,7 +18,7 @@ Be clear and concise in your writing. Bullets points are encouraged.
 ### Website Topic (Milestone 1)
 > Briefly explain what your website will be about. Share your vision of your personal website.
 
-My website will introduce a variety of accessible, reasonably-priced popular restaurants and dessert places in Seoul, South Korea that are more well-known among local citizens rather than tourists.
+My website will introduce my favorite restaurants and dessert places that are accessible and reasonably-priced in Seoul, South Korea.
 
 
 ## Personal Website Design Exploration (Milestone 1)
@@ -149,30 +149,55 @@ You may change your homepage content based on your card sorting. If you do chang
 > Include photographic evidence of each iteration of card sorting **and** description of your thought process for each iteration.
 > Please physically sort cards; please don't try and do this digitally.
 
-TODO: photos and explanations of each iteration
+1. All categories
+
+   ![All categories](iterations/all-categories.jpeg)
+    I first sorted the content into the most basic categories that each card fell into--introductory text, images, types of cuisines, the different districts, and the restaurants (and their detailed information, though I did not mark all of the information on the cards). I did this to examine how intuitive each piece of content would be without being associated to another content in another category. This iteration helped me to notice that the different content would not pose much meaning to a user if they are not connected to other types of content that are relevant.
+
+2. By district
+
+   ![By district](iterations/by-district.jpeg)
+   I then sorted by separating the introductory text (supposedly the content of the welcome page) with the detailed content of restaurants and the images of their menus. I sorted the restaurants/dishes by the district each restaurant is located in. In this iteration, the different cuisines aren't shown--they are laid separately. This iteration is a visualization of creating a separate page for each district.
+
+3. By cuisine
+
+   ![By cuisine](iterations/by-cuisine.jpeg)
+   After the previous iteration, I re-did the sorting through a similar process, except this time the restaurants are sorted by the type of cuisine they specialize in. This iteration visualizes creating separate pages for each cuisine. District information is laid separately.
+
+4. Combining cuisine-district
+
+   ![Cuisine-district](iterations/cuisine-district.jpeg)
+   I thought that if I create separate pages for cuisine and district, there will be far too many pages for the user to navigate, which is not an effective design strategy. So I decided to make 2 large pages that will show a list of categorized restaurants--one big page for restaurants by district, and another for restaurants by cuisine. The photo shows the example of navigating to the restaurant-by-cuisine page (how the restaurants will be categorized in that one page), while the restaurant-by-district page will be separate.
+
+5. Welcome/About Me
+
+   ![Welcome-aboutme](iterations/welcome-about.jpeg)
+   I then decided to separate the welcome page and the "about me" page that will contain personal information about myself and the inspiration behind creating this website. The Welcome Page has more information that the user actually needs to figure out what the website is meant to do, and the supplemental information that will help them to use the site (the maps)
 
 
 ### Final Content Organization (Milestone 2)
 > Which iteration of card sorting will you use for your website?
 
-TODO: tell us which iteration of card sorting you plan to use.
+I will use the 4th and 5th iterations (they can essentially be combined into one because they show different areas of the website).
 
 > Explain how the final organization of content is appropriate for your site's audiences.
 
-TODO: why does this organization make sense for your audience (not you)?
+The audience can most conveniently view the content without having to navigate to an enormous number of pages. This iteration decreases the number of pages from over 10 to just 4 in order to view the same content in a more organized manner. Because it will be easier for audiences to compare different restaurants in one place, combining the categorized information into a smaller number of pages will make it easier for them to get the information they want.
 
 
 ### Navigation (Milestone 2)
 > Please list the pages you will include in your website's navigation.
 
-- TODO: page 1
-- TODO: page 2
-- TODO: page 3
-- ...
+- Home
+- About Me
+- By Cuisine
+- By District
 
 > Explain why the names of these pages make sense for your site's audience.
 
-TODO: explain why the pages name make sense to the audience.
+I originally thought the Home page should be called "Welcome", but then I remembered that I'm not necessarily welcoming the audience to a certain organization, I'm just showing them what my favorite eateries are! So I settled on a more generic name.
+"About Me" will indicate to the audience that the website was created by a single individual rather than a company (and these are already available on the Internet!), and make the interaction feel more personal.
+"By Cuisine" and "By District" are just intuitive names that tell the audience how the restaurants will be categorized, so that they can choose how they want to compare the different eateries.
 
 
 ## Visual Themes (Milestone 3)
