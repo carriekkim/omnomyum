@@ -17,7 +17,11 @@ Be clear and concise in your writing. Bullets points are encouraged.
 
 ### Website Topic (Milestone 1)
 > Briefly explain what your website will be about. Share your vision of your personal website.
+>
+My website will introduce a variety of accessible, reasonably-priced popular restaurants and dessert places in Seoul, South Korea that are more well-known among local citizens rather than tourists.
 
+> Edit:
+>
 My website will introduce my favorite restaurants and dessert places that are accessible and reasonably-priced in Seoul, South Korea.
 
 
