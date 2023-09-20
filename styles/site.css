@@ -1,3 +1,129 @@
 body {
     background-color: #faf3dd;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.logo img {
+    margin-top: 24px;
+    margin-bottom: 24px;
+    display: block;
+    max-width: 300px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.icon img {
+    margin-top: auto;
+    margin-bottom: auto;
+    display: block;
+    max-width: 100px;
+    height: auto;
+    margin-right: auto;
+}
+
+.decorative img {
+    max-width: 400px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.food img {
+    max-width: 200px;
+    height: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+
+.restaurant {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: aliceblue;
+    margin-right: 30px;
+    font-size: 80%;
+
+}
+
+nav ul {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul li {
+    list-style: none;
+}
+
+nav ul {
+    background-color: #ffa657;
+    color: black;
+
+    font-size: 100%;
+    text-decoration: none;
+  }
+
+  nav ul li ul {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: white;
+    padding-left: 15px;
+  }
+
+  nav ul li ul:hover {
+    padding-left: 8px;
+    background-color: #fdffd9;
+    border-left: 8px solid #fdffff;
+  }
+/*
+  nav ul li a {
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+  } */
+
+.cite {
+    display: block;
+    text-align: left;
+    color: lightgray;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.cite a {
+    color: lightgray;
+}
+
+.darker-color {
+    color: black;
+    background-color: #e9d9b0
+}
+
+.bright-color {
+    color: black;
+    background-color: #ffe6bc
+}
+
+.source {
+    display: block;
+    font-size: small;
+    text-align: left;
+}
+.source a {
+    color: #030303;
+    font-family: 'Courier New', Courier, monospace;
+    /* font-size: small;
+    text-align: right; */
+}
+
+.paragraph {
+    color: #371f0b;
+    background-color: white;
+    padding: 5px;
+}
+
+section {
+    padding: 20px;
 }

@@ -293,7 +293,7 @@ TODO: site sketches
 >dfd
 > Audit your design and check that you aren't relying on any dynamic features.
 
-TODO: Explain why your site's design is completely static.
+My website does not contain any dynamic changes. It operates with a static navigation bar, and each page consists of immobile images and text that don't change based on the interaction of the user.
 
 
 ## Rationale (Final Submission)
@@ -309,32 +309,44 @@ Your rationale should be a polished version of the earlier explanations.
 ### Audience (Final Submission)
 > A complete and polished description of the intended audience(s) for your website.
 
-TODO: audience rationale
+My intended audience is tourists visiting Seoul, South Korea, ranging from students to parents traveling with their children. Specifically, tourists that intend not to rely on tour guides or tourist companies to make travel plans will mostly benefit from my website. This audience is the group of people that is most likely to find this website out of any person that is looking for local restuarants in Seoul with reasonable prices, organized by district.
 
 
 ### Design Goals (Final Submission)
 > An explanation of the design goals for that audience, based on your earlier rationales.
 
-TODO: your design goals
+The design goals are the following:
+
+1. Make it easy for the audience to find restaurants in the location they are targeting
+2. Make it easy for the audience to find restaurants in the cuisine they are targeting
+3. Give the audience a simplistic overview of the information of each restaurant
+
+These goals are appropriate for my target audience who is most likely unfamiliar with Seoul, and thus needs easy, accessible information that will help them navigate through their trip easily.
 
 
 ### Content Organization & Navigation (Final Submission)
 > An explanation of how the final content organization and navigation met your goals and why it's appropriate for your audience.
 
-TODO: content and information architecture rationale
+The audience can most conveniently view the content in a more organized manner, without having to navigate to a large number of pages to view more detailed information. Audiences can compare different restaurants in one place, in terms of location and cuisine. This is appropriate for my audience in that it lessens the confusion they will feel for having to search for eateries in an unfamiliar area.
 
+My navigation is as follows:
+- Home
+- About Me
+- By Cuisine
+- By District
+
+This navigation is appropriate for the audience in that it provides a universal guide of where to navigate for what information. Separating the restaurant information from my personal information simplifies the searching process for tourists, while providing intuitive labels of where to search.
 
 ### Visual Design (Final Submission)
 > An explanation of how the final design met your goals and why it's appropriate for your audience.
 
-TODO: design rationale
+My design goals are to make my website accessible and easy to navigate to a wide range of users that are searching for a good experience in Seoul. Therefore, the overall minimalistic and simple design that does not really get swayed by the preference of a specific type of user makes it applicable to my original design goals. The visual theme that reminds users of food will make the search for eateries more appealing and enjoyable, which is applicable to my target audience that finds my website for the purpose of searching for eateries. This makes it easy for a foreign user to identify necessary information regarding an unfamiliar region. Clear visibility will help users of many age groups and experiences with the Internet not get confused and navigate their way around easily.
 
 
 ### Self-Reflection (Final Submission)
-> Take some time here to reflect on how much you've learned since you started this class. It's often easy to ignore our own progress. Take a moment and think about your accomplishments in this class. Hopefully you'll recognize that you've accomplished a lot and that you should be very proud of those accomplishments!
+> Take some time here to reflect on how much you've learned since you started this class. It's often easy to ignore our own progress. Take a moment and think about your accomplishments in this class. Hopefully you'll recognize that you've accomplished a lot and that you should be very proud of those accomplishments
 
-TODO: reflection
-
+I always assumed that I needed to purchase a domain to create my own website, but I'm happy that I can use HTML and CSS to make and design my own work. Learning the technological fundamentals to do this as well as key concepts of design that affect users feel like a good starting point for my growth as a web designer.
 
 ## Grading (Final Submission)
 
