@@ -276,14 +276,32 @@ I'm aiming for excitement, happiness, contentment, and comfortableness, thus des
 > Show your design process.
 > **Use the example websites above as inspiration for your site's design.**
 
-TODO: composition sketches
+![Home Page](Sketches.jpg)
+
+My home page itself does not have that much content, so there's not that much variation in the two sketches.
+
+The first sketch has a horizontal navigation bar and the logo is located in the left top corner. This is the simpler version of the website, and more content can fit on a single screen without having to scroll.
+
+The second sketch is a more vertical composition. The navigation bar is vertical, and the logo is centered. This considers that the website is meant for mobile devices, so that users have more tap space and the content is more visible on the screen.
 
 
 ### Final Site Design (Final Submission)
 > Include a sketch of the final composition for each page in your site.
 > Provide an explanation below each sketch.
 
-TODO: site sketches
+![All Screens](screens.jpg)
+
+1. Home Page
+
+   The Home page follows the mobile-friendly vertical alignment, but I decided to put the map photos side by side so that the user doesn't have to scroll as much. This way users have maximum tap space while also being capable of viewing the content more conveniently.
+
+2. About Me Page
+
+   Because this page is entirely composed of text, I decided to differentiate the main paragraphs with the headers as well as dividing the sections so that the content is easier to read and understand.
+
+3. By Cuisine & By District Pages
+
+   These pages are very similar in composition. The restaurants are categorized into multiple sections, and each restaurant has detailed information as well as an image of the signature menu. I decided to horizontally situate the list of details and the image for each restaurant, and divide blocks for each restaurant. Each category was also differentiated with a header so that it would be easier for users to navigate what they wanted.
 
 
 ### Static Website Design Check (Final Submission)
@@ -360,16 +378,15 @@ I always assumed that I needed to purchase a domain to create my own website, bu
 >
 > Is your design journey easy to read?
 
-TODO: design journey ready to grade?
+Yes!
 
 
 ### Collaborators
 > List any persons you collaborated with on this project.
 
-TODO: list your collaborators
+This is my individual work.
 
 
 ### Resources
 > Please cite any external resources you used in the creation of your project.
 
-TODO: list resources
